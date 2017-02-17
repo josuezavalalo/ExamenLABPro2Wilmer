@@ -74,7 +74,6 @@ public class Principal extends javax.swing.JFrame {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new Principal().setVisible(true);
-                new Inicio().setVisible(true);
             }
         });
     }
